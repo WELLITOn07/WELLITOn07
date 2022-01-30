@@ -9,9 +9,9 @@
 #
 - 💞️ MEUS PROJETOS 💞️ - 
 - << HTML5/CSS3 >> 
-- Cordel Moderno > https://welliton07.github.io/Cordel-Moderno/
-- Mascote do Android > https://welliton07.github.io/Mascote-do-Android/
-- Super Mario World > https://welliton07.github.io/Super-Mario-World/ 
+- <a href="https://welliton07.github.io/Cordel-Moderno/" target="_blank">Cordel Moderno</a>
+- <a href="https://welliton07.github.io/Mascote-do-Android/" target="_blank">Mascote do Android</a>
+- <a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a> 
 #
     
 - 📫 Contato <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50">
