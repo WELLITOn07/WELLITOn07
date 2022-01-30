@@ -27,6 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WELLITOn07&langs_count=8)](https://github.com/WELLITOn07/github-readme-stats)
 #
 - 📫 Contato <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50">
-W.ELLITON2010@HOTMAIL.COM <img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="">
+W.ELLITON2010@HOTMAIL.COM 
+#
+<img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="">
 
 
