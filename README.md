@@ -15,7 +15,7 @@
 #
     
 - 📫 Contato <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50">
-W.ELLITON2010@HOTMAIL.COM
+W.ELLITON2010@HOTMAIL.COM <img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="">
 
 <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
