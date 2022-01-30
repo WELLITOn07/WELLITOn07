@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @WELLITOn07
-- 👀 I’m interested in ..Programação/Tecnologia
-- 🌱 I’m currently learning ... 
-HTML5, CSS3, Javascript ...
-- 💞️ I’m looking to collaborate on ...
-HTML5 e CSS3
+- 👋 Olá sou: @WELLITOn07 
+ 
+- 👀 Tenho interesse em: Programação/Tecnologia
+  
+- 🌱 Atualmente estou aprendendo: HTML5, CSS3, Javascript    
+    
+- 💞️ MEUS PROJETOS 💞️ - 
 
-- 📫 How to reach me ...
+- << HTML5/CSS3 >> 
+- Cordel Moderno > https://welliton07.github.io/Cordel-Moderno/
+- Mascote do Android > https://welliton07.github.io/Mascote-do-Android/
+- Super Mario World > https://welliton07.github.io/Super-Mario-World/
+    
+    
+//----------------------------//
+- 📫 Contato:
 W.ELLITON2010@HOTMAIL.COM
 
