@@ -10,7 +10,7 @@
 - 💞️ MEUS PROJETOS 💞️ - 
 - << HTML5/CSS3 >> 
 - <a href="https://welliton07.github.io/Cordel-Moderno/" target="_blank">Cordel Moderno</a>
-- <a href="https://welliton07.github.io/Mascote-do-Android/" target="_blank">Mascote do Android</a>
+- <a href="" target="_blank">Mascote do Android</a>
 - <a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a> 
 #
     
