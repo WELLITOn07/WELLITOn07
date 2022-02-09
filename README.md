@@ -8,7 +8,7 @@
 - 🖥️ Lógica de Programação (CursoemVídeo - Gustavo Guanabara) 
 #
 - 💞️ MEUS PROJETOS 💞️ - 
-- << HTML5/CSS3 >> 
+<code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 - <a href="https://welliton07.github.io/Cordel-Moderno/" target="_blank">Cordel Moderno</a>
 - <a href="https://welliton07.github.io/Mascote-do-Android/" target="_blank">Mascote do Android</a>
 - <a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a> 
