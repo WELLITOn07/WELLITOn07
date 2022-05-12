@@ -12,7 +12,7 @@
 - <a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a> 
 - <a href="https://welliton07.github.io/Racionais/" target="_blank">Racionais MC'S - A vida é um desafio</a>
 - <a href="https://welliton07.github.io/James-Webb/" target="_blank">James Webb</a>
-- - <a href="https://welliton07.github.io/CALCULO-IMC/" target="_blank">Sistema para calcular seu IMC (índice de massa corporal)</a>
+- <a href="https://welliton07.github.io/CALCULO-IMC/" target="_blank">Sistema para calcular seu IMC (índice de massa corporal)</a>
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WELLITOn07&langs_count=8)](https://github.com/WELLITOn07/github-readme-stats)
