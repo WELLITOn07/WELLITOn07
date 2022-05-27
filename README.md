@@ -8,7 +8,7 @@
 - 🖥️ Lógica de Programação (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ HTML & CSS3 (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
 - 🖥️ Lógica de Programação (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
-- 🖥️ Linux (CursoemVídeo - Gustavo Guanabara) [40Hrs]
+- 🖥️ Linux (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ Rede de Computadores (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
 - 🖥️ Algoritmos e Lógica de Programação 2022/ linguagem em C (Udemy - Prof. Nelio Alvez) [20Hrs]
 #
