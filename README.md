@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo:  🖥️ Javascript (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
 - ✔️ Cursos Finalizados: 
-- 🖥️ Lógica de Programação (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
+- 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ HTML & CSS3 (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
 - 🖥️ Lógica de Programação (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ Linux (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
