@@ -2,15 +2,15 @@
 # @WELLITOn07 ! <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Hi.gif" width="30"> <img src=https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Earth.gif width="30"> Hello World!
  
 - 👀 Tenho interesse em: Programação/Tecnologia 
-- 🌱 Atualmente estou aprendendo:  🖥️ Javascript (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
+- 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
 - ✔️ Cursos Finalizados: 
 - 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
-- 🖥️ HTML & CSS3 (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
-- 🖥️ Lógica de Programação (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
-- 🖥️ Linux (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
-- 🖥️ Rede de Computadores (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
-- 🖥️ Algoritmos e Lógica de Programação 2022/ linguagem em C (Udemy - Prof. Nelio Alvez) [20Hrs]
+- 🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
+- 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
+- 🖥️ <strong>Linux</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
+- 🖥️ <strong>Rede de Computadores</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
+- 🖥️ <strong>Algoritmos e Lógica de Programação</strong> 2022/ linguagem em C (Udemy - Prof. Nelio Alvez) [20Hrs]
 #
 - 💞️ MEUS PROJETOS 💞️ - 
 - <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
