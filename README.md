@@ -2,6 +2,7 @@
 # @WELLITOn07 ! <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Hi.gif" width="30"> <img src=https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Earth.gif width="30"> Hello World!
  
 - 👀 Tenho interesse em: Programação/Tecnologia 
+- 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 - 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
 - ✔️ Cursos Finalizados: 
