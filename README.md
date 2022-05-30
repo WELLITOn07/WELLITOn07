@@ -11,7 +11,7 @@
 - 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>Linux</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>Rede de Computadores</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
-- 🖥️ <strong>Algoritmos e Lógica de Programação</strong> 2022/ linguagem em C (Udemy - Prof. Nelio Alvez) [20Hrs]
+- 🖥️ <strong>Algoritmos e Lógica de Programação 2022/ linguagem em C</strong> (Udemy - Prof. Nelio Alvez) [20Hrs]
 #
 - 💞️ MEUS PROJETOS 💞️ - 
 - <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
