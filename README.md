@@ -8,7 +8,7 @@
 - ✔️ Cursos Finalizados: 
 - 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
-- 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
+- 🖥️ <strong>Javascript</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>Linux</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>Rede de Computadores</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
 - 🖥️ <strong>Algoritmos e Lógica de Programação 2022/ linguagem em C</strong> (Udemy - Prof. Nelio Alvez) [20Hrs]
