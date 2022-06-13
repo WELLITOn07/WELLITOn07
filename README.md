@@ -20,7 +20,7 @@
 - <a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a> 
 - <a href="https://welliton07.github.io/James-Webb/" target="_blank">James Webb</a>
 - <a href="https://welliton07.github.io/CALCULO-IMC/" target="_blank">Sistema para calcular seu IMC (índice de massa corporal)</a>
-- <a href="https://welliton07.github.io/CALCULADORA-SIMPLES/" target="_blank">Calculadora (Simples)</a>
+- <a href="[https://welliton07.github.io/CALCULADORA-SIMPLES/](https://welliton07.github.io/CAL/)" target="_blank">Calculadora (Simples)</a>
 -  <a href="https://welliton07.github.io/Lista-de-Tarefas/" target="_blank">Lista de Tarefas (Simples)</a>
 
 #
