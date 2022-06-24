@@ -1,13 +1,15 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)  
-# *@WELLITOn07* #! <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Hi.gif" width="30"> <img src=https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Earth.gif width="30"> Hello World!
+
+|<h1>*@WELLITOn07* <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Hi.gif" width="30"> <img src=https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Earth.gif width="30"> Hello World!</h1>|
+---|
 #
-*👀 Tenho interesse em: Programação/Tecnologia*|
+|<h2>*👀 Tenho interesse em: Programação/Tecnologia*</h2>|
 ---|
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
 -------------------------------⏱️<strong>TEMPO DE APRENDIZAGEM: 5 MESES ⏱️</strong>------------------------------------
-✔️ *Cursos Finalizados*|
+|<h2>✔️ *Cursos Finalizados*</h2>|
 ---|
 |🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]|
 |🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]|
@@ -25,11 +27,14 @@
 <code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code><img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>|<a href="https://welliton07.github.io/CALCULO-IMC/" target="_blank">Sistema para calcular seu IMC (índice de massa corporal)</a>
 <code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code><img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>|<a href="https://welliton07.github.io/CAL/" target="_blank">Calculadora (Simples)</a>
 <code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code><img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>|<a href="https://welliton07.github.io/Lista-de-Tarefas/" target="_blank">Lista de Tarefas (Simples)</a>
-  
 
-#
-- 📫 Contato <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Handshake.gif" width="50">
-W.ELLITON2010@HOTMAIL.COM 
-#
-<a href="https://www.linkedin.com/in/welliton-gruber-becker-8383a4141/" target="_blank"><img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="icone-linkedin">
+#  
+  
+|📫 Contato <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Handshake.gif" width="50">|
+---|
+|W.ELLITON2010@HOTMAIL.COM|
+|<a href="https://www.linkedin.com/in/welliton-gruber-becker-8383a4141/" target="_blank">|  
+ 
+#  
+<img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="icone-linkedin">
 
