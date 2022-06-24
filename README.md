@@ -8,7 +8,7 @@
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
--------------------------------⏱️<strong>TEMPO DE APRENDIZAGEM: 5 MESES ⏱️</strong>------------------------------------
+⏱️<strong>TEMPO DE APRENDIZAGEM: 5 MESES</strong>⏱️
 |✔️ *Cursos Finalizados*|
 ---|
 |🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]|
