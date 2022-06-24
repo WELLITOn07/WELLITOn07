@@ -13,6 +13,7 @@
 - 🖥️ <strong>Linux</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 - 🖥️ <strong>Rede de Computadores</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
 - 🖥️ <strong>Algoritmos e Lógica de Programação 2022/ linguagem em C</strong> (Udemy - Prof. Nelio Alvez) [20Hrs]
+- 🖥️ <strong>Git e GitHub</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]
 
 #
 - 💞️ MEUS PROJETOS 💞️ - 
