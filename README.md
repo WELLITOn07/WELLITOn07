@@ -7,7 +7,7 @@
 # 
 -------------------------------⏱️<strong>TEMPO DE APRENDIZAGEM: 5 MESES ⏱️</strong>------------------------------------
 - ✔️ Cursos Finalizados: 
--[x] 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs][x]
+-[x] 🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]-[x]
 -[x] 🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]
 -[x] 🖥️ <strong>Javascript</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
 -[x] 🖥️ <strong>Linux</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]
