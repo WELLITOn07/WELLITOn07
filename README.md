@@ -33,8 +33,7 @@
 |📫 Contato <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Handshake.gif" width="50">|
 ---|
 |W.ELLITON2010@HOTMAIL.COM|
-|<a href="https://www.linkedin.com/in/welliton-gruber-becker-8383a4141/" target="_blank">|  
 
-#  
-<img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="icone-linkedin">
+  <a href="https://www.linkedin.com/in/welliton-gruber-becker-8383a4141/" target="_blank"><img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="icone-linkedin"></img><a/>
+#
 
