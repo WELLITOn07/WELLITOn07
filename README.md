@@ -3,13 +3,13 @@
 | ![Apresentao de Logotipo Cyberpunk Glitch_free (online-video-cutter com)](https://user-images.githubusercontent.com/97143231/175456308-59602392-8869-4649-8083-4fda45ff4d51.gif)|
 ---|
 #
-|<h2>*👀 Tenho interesse em: Programação/Tecnologia*</h2>|
+|*👀 Tenho interesse em: Programação/Tecnologia*|
 ---|
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 # 
 -------------------------------⏱️<strong>TEMPO DE APRENDIZAGEM: 5 MESES ⏱️</strong>------------------------------------
-|<h2>✔️ *Cursos Finalizados*</h2>|
+|✔️ *Cursos Finalizados*|
 ---|
 |🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]|
 |🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]|
