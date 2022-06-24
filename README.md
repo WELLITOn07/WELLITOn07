@@ -1,6 +1,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)  
 
-|<h1>*@WELLITOn07* <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Hi.gif" width="30"> <img src=https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Earth.gif width="30"> Hello World!</h1>|
+| ![Apresentao de Logotipo Cyberpunk Glitch_free (online-video-cutter com)](https://user-images.githubusercontent.com/97143231/175456308-59602392-8869-4649-8083-4fda45ff4d51.gif)|
 ---|
 #
 |<h2>*👀 Tenho interesse em: Programação/Tecnologia*</h2>|
@@ -34,7 +34,7 @@
 ---|
 |W.ELLITON2010@HOTMAIL.COM|
 |<a href="https://www.linkedin.com/in/welliton-gruber-becker-8383a4141/" target="_blank">|  
- 
+
 #  
 <img src="https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Linkedin-icon.png" alt="icone-linkedin">
 
