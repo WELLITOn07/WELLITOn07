@@ -7,6 +7,7 @@
 ---|
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
+🌱 Atualmente estou aprendendo:  🖥️ <strong>Angular/Typescript</strong> (MJV SCHOOL).
 # 
 
 |✔️ *Cursos Finalizados*|
