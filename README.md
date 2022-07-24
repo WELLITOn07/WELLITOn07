@@ -3,14 +3,14 @@
 | ![Apresentao de Logotipo Cyberpunk Glitch_free (online-video-cutter com)](https://user-images.githubusercontent.com/97143231/175456308-59602392-8869-4649-8083-4fda45ff4d51.gif)|
 ---|
 #
-|*👀 Tenho interesse em: Programação/Tecnologia*|
+|*👀 I am interested in: Programming/Technology*|
 ---|
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Diciplinas Váriadas</strong> (Estácio)
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Javascript</strong> (Udemy - Prof. Luiz Octávio Miranda) [145Hrs]
 🌱 Atualmente estou aprendendo:  🖥️ <strong>Angular/Typescript</strong> (MJV SCHOOL).
 # 
 
-|✔️ *Cursos Finalizados*|
+|✔️ *Completed Courses*|
 ---|
 |🖥️ <strong>Lógica de Programação</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [40Hrs]|
 |🖥️ <strong>HTML & CSS3</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [120Hrs]|
@@ -21,19 +21,15 @@
 |🖥️ <strong>Git e GitHub</strong> (CursoemVídeo - Prof. Gustavo Guanabara) [20Hrs]|
 #
 
-🚧 __*PROJETOS*__ 🚧
+🚧 __*WORKING*__ 🚧
 ___
 ![hacker-computer](https://user-images.githubusercontent.com/97143231/175453412-d7a08f34-0171-4797-8a64-54109c2a3746.gif)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WELLITOn07&langs_count=8)](https://github.com/WELLITOn07/github-readme-stats)|
 ---|---|
-<img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> |<a href="https://welliton07.github.io/James-Webb/" target="_blank">James Webb</a>|
-<img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> |<a href="https://welliton07.github.io/Super-Mario-World/" target="_blank">Super Mario World</a>
-<img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code>|<a href="https://welliton07.github.io/CALCULO-IMC/" target="_blank">Sistema para calcular seu IMC (índice de massa corporal)</a>
-<img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> </code><code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code>|<a href="https://welliton07.github.io/CAL/" target="_blank">Calculadora (Simples)</a>
-<img height= "15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height= "15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "15" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code>|<a href="https://welliton07.github.io/Chores/" target="_blank">Chores (Lista de tarefas)</a>
+
 
 #  
   
-|📫 Contato <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Handshake.gif" width="50">|
+|📫 Contact <img src= "https://github.com/WELLITOn07/Mascote-do-Android/blob/main/imagens/Handshake.gif" width="50">|
 ---|
 |W.ELLITON2010@HOTMAIL.COM|
 
